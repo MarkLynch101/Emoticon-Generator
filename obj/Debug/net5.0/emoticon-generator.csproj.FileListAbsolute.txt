@@ -1,0 +1,16 @@
+C:\Users\markl\OneDrive\Desktop\emoticon-generator\bin\Debug\net5.0\emoticon-generator.exe
+C:\Users\markl\OneDrive\Desktop\emoticon-generator\bin\Debug\net5.0\emoticon-generator.deps.json
+C:\Users\markl\OneDrive\Desktop\emoticon-generator\bin\Debug\net5.0\emoticon-generator.runtimeconfig.json
+C:\Users\markl\OneDrive\Desktop\emoticon-generator\bin\Debug\net5.0\emoticon-generator.runtimeconfig.dev.json
+C:\Users\markl\OneDrive\Desktop\emoticon-generator\bin\Debug\net5.0\emoticon-generator.dll
+C:\Users\markl\OneDrive\Desktop\emoticon-generator\bin\Debug\net5.0\ref\emoticon-generator.dll
+C:\Users\markl\OneDrive\Desktop\emoticon-generator\bin\Debug\net5.0\emoticon-generator.pdb
+C:\Users\markl\OneDrive\Desktop\emoticon-generator\obj\Debug\net5.0\emoticon-generator.csproj.AssemblyReference.cache
+C:\Users\markl\OneDrive\Desktop\emoticon-generator\obj\Debug\net5.0\emoticon-generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\markl\OneDrive\Desktop\emoticon-generator\obj\Debug\net5.0\emoticon-generator.AssemblyInfoInputs.cache
+C:\Users\markl\OneDrive\Desktop\emoticon-generator\obj\Debug\net5.0\emoticon-generator.AssemblyInfo.cs
+C:\Users\markl\OneDrive\Desktop\emoticon-generator\obj\Debug\net5.0\emoticon-generator.csproj.CoreCompileInputs.cache
+C:\Users\markl\OneDrive\Desktop\emoticon-generator\obj\Debug\net5.0\emoticon-generator.dll
+C:\Users\markl\OneDrive\Desktop\emoticon-generator\obj\Debug\net5.0\ref\emoticon-generator.dll
+C:\Users\markl\OneDrive\Desktop\emoticon-generator\obj\Debug\net5.0\emoticon-generator.pdb
+C:\Users\markl\OneDrive\Desktop\emoticon-generator\obj\Debug\net5.0\emoticon-generator.genruntimeconfig.cache
